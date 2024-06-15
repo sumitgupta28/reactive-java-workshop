@@ -1,4 +1,4 @@
-package io.javabrains.reactiveworkshop;
+package test.reactive.reactiveworkshop;
 
 import java.util.stream.Stream;
 

@@ -5,14 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/javabrains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/CompletableFutureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/FutureExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/RunAsyncExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/SupplyAsyncExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/ThenAcceptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/ThenApplyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/ThenCombineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/ThenComposeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/mytest/ThenRunExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/Exercise9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/ReactiveSources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/ReactiveSources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/StreamSources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/StreamSources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/reactive/reactiveworkshop/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,20 +78,20 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
-      <module name="reactive-example" />
+  <component name="RunManager" selected="Application.CompletableFutureTest">
+    <configuration name="CompletableFutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.reactive.mytest.CompletableFutureTest" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="PATTERN" value="test.reactive.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise2" />
-      <module name="reactive-example" />
+    <configuration name="SupplyAsyncExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.mytest.SupplyAsyncExample" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="PATTERN" value="io.javabrains.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise7" />
-      <module name="reactive-example" />
+    <configuration name="ThenAcceptExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.mytest.ThenAcceptExample" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="PATTERN" value="io.javabrains.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise8" />
-      <module name="reactive-example" />
+    <configuration name="ThenApplyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.mytest.ThenApplyExample" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="PATTERN" value="io.javabrains.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise9" />
-      <module name="reactive-example" />
+    <configuration name="ThenComposeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.reactive.mytest.ThenComposeExample" />
+      <module name="reactive-java-workshop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.javabrains.reactiveworkshop.*" />
+          <option name="PATTERN" value="test.reactive.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise7" />
-        <item itemvalue="Application.Exercise9" />
-        <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.CompletableFutureTest" />
+        <item itemvalue="Application.ThenComposeExample" />
+        <item itemvalue="Application.ThenAcceptExample" />
+        <item itemvalue="Application.ThenApplyExample" />
+        <item itemvalue="Application.SupplyAsyncExample" />
       </list>
     </recent_temporary>
   </component>
